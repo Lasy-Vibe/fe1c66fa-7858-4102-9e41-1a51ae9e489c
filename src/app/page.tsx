@@ -116,7 +116,7 @@ export default function SpotifyPlayer() {
         <div className="w-64 bg-black border-r border-gray-800 flex flex-col hidden md:flex">
           {/* Logo e navegação principal */}
           <div className="p-6">
-            <h1 className="text-2xl font-bold text-green-500 mb-8">Spotify</h1>
+            <h1 className="text-2xl font-bold text-green-500 mb-8">MrFy</h1>
             <nav className="space-y-4">
               <Button variant="ghost" className="w-full justify-start text-gray-300 hover:text-white">
                 <Home className="w-5 h-5 mr-3" />
